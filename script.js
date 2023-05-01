@@ -10,7 +10,6 @@ class Band {
 class Menu {
     constructor() {
         this.bands = [];
-        this.selectedband = null;
     }
 
 
